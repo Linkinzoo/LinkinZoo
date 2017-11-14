@@ -1,0 +1,22 @@
+{
+  "name": "linkinzoo",
+  "version": "1.0.0",
+  "description": "js",
+  "main": "lib",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Linkinzoo/LinkinZoo.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "LinkinZoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Linkinzoo/LinkinZoo/issues"
+  },
+  "homepage": "https://github.com/Linkinzoo/LinkinZoo#readme"
+}
