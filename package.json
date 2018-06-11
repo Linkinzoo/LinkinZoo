@@ -2,7 +2,7 @@
   "name": "linkinzoo",
   "version": "1.0.0",
   "description": "js",
-  "main": "lib",
+  "main": "./lib",
   "scripts": {
     "test": "test"
   },
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Linkinzoo/LinkinZoo/issues"
   },
-  "homepage": "https://github.com/Linkinzoo/LinkinZoo#readme"
+  "homepage": "https://github.com/Linkinzoo/LinkinZoo#readme",
+  "dependencies": {
+    "jest": "^21.2.1"
+  }
 }
